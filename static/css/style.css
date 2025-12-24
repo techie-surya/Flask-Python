@@ -1,0 +1,7 @@
+body {
+    /* Soft gradient background for a clean, modern look */
+    background: linear-gradient(135deg, #f6f8fa 0%, #e9eef3 100%);
+    color: #222; /* ensure good contrast for text */
+    min-height: 100vh;
+    margin: 0;
+}
